@@ -1,0 +1,3 @@
+displayName = Life Fruit Core
+author = RedFrog
+version = 1.0

@@ -1,0 +1,3 @@
+Life Fruit Core is a mod that allows other mods easy access to making custom life fruit UI!
+
+this is my first mod, if anything seems wrong, contact me on discord!
